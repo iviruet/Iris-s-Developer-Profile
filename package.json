@@ -1,0 +1,23 @@
+{
+  "name": "iris-s-developer-profile",
+  "version": "1.0.0",
+  "description": "profile generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iviruet/Iris-s-Developer-Profile.git"
+  },
+  "author": "iris viruet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iviruet/Iris-s-Developer-Profile/issues"
+  },
+  "homepage": "https://github.com/iviruet/Iris-s-Developer-Profile#readme",
+  "dependencies": {
+    "electron-pdf": "^7.0.0",
+    "inquirer": "^7.0.4"
+  }
+}
